@@ -19,7 +19,7 @@ if ($login == $curr_login && $pass == $curr_pass) {
     <title>Document</title>
     <style>
         body {
-            display: flex;
+            display: flex;awdaWDAWDAWD
             justify-content: center;
             align-items: center;
             width: 100vw;
